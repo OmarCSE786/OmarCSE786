@@ -1,13 +1,19 @@
 # 👋 Hi there, I'm Omar Faruk!
 
-## 🧑‍💻 About Me
-I am a passionate software developer. I graduated with a B.Tech in Computer Science from MAKAUT and am now an IT Executive—IT at mPokket Financial Services Pvt. Ltd.** With nearly three years of hands-on experience in Linux, network administration, and technical support, I bring a strong background in system security and automation.
+## 👨‍💻 About Me
 
-- 🔐 Focused on DevOps automation and managing and monitoring server, Gateway, Network Devices
-- 💡 Passionate about infrastructure optimization and real-world problem-solving.
-- 📍 Based in Kolkata, West Bengal.
+I am a passionate **DevOps and Infrastructure Engineer** with a foundation in software development and IT operations. I hold a **B.Tech in Computer Science Engineering from MAKAUT** and currently work as an ** IT Executive – IT at mPokket Financial Services Pvt. Ltd.**
 
----
+With nearly **three years of practical experience** in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
+
+- 🛡️ System security and endpoint protection
+- ⚙️ Automation with shell scripting and cron jobs
+- 🌐 Network operations and PXE boot deployments
+- 📦 Infrastructure monitoring with Zabbix and Observium
+- 🔁 Version control and collaboration with Git and GitHub
+
+Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time **DevOps/Security Engineering** role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
+
 
 ## 🚀 Tech Stack & Tools
 
