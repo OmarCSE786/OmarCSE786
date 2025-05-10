@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Omar Faruk!
 
 ## 🧑‍💻 About Me
-I'm a final-year Computer Science student at MAKAUT and an **IT Executive – InfoSec** at **mPokket Financial Services Pvt. Ltd.** With nearly 3 years of hands-on experience in Linux, network administration, and technical support, I bring a strong background in system security and automation.
+I am a passionate software developer. I graduated with a B.Tech in Computer Science from MAKAUT and am now an IT Executive—IT at mPokket Financial Services Pvt. Ltd.** With nearly three years of hands-on experience in Linux, network administration, and technical support, I bring a strong background in system security and automation.
 
-- 🔐 Focused on cybersecurity, endpoint protection, and DevOps automation.
+- 🔐 Focused on DevOps automation and managing and monitoring server, Gateway, Network Devices
 - 💡 Passionate about infrastructure optimization and real-world problem-solving.
 - 📍 Based in Kolkata, West Bengal.
 
