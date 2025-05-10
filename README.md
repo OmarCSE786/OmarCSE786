@@ -15,30 +15,34 @@ With nearly **three years of practical experience** in Linux administration, net
 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time **DevOps/Security Engineering** role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
 
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools  
 
-### 🖥️ System & Network
+### 🖥️ System & Network:
 ![Linux](https://img.shields.io/badge/Linux-Mint-informational?logo=linux)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-Blue?logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-informational?logo=windows)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Blue?logo=wireshark)
 ![PXE Boot](https://img.shields.io/badge/PXE-Boot-informational)
 
-### 🔧 DevOps & Monitoring
+### 🔧 DevOps & Monitoring:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix)
 ![Observium](https://img.shields.io/badge/Observium-informational)
 ![Shell Script](https://img.shields.io/badge/Shell-Scripting-brightgreen)
 ![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-Automation-orange)
 
-### 🗃️ Databases & Languages
+### 🗃️ Databases & APIs:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-007396?logo=java)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured--Query--Language-blue)
+![REST API](https://img.shields.io/badge/REST-API-orange)
+
 
 ---
 
