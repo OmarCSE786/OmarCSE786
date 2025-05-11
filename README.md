@@ -1,5 +1,6 @@
-<h1><blink>👋 Hi there, I'm Omar Faruk!</blink></h1>
-
+<marquee behavior="alternate" direction="left" scrollamount="5">
+  <h1>👋 Hi there, I'm Omar Faruk!</h1>
+</marquee>
 ## 👨‍💻 About Me
 
 I am a passionate **DevOps Engineer** with a foundation in software development and IT operations. I hold a **B.Tech in Computer Science Engineering from MAKAUT** and currently work as an **IT Executive – IT at mPokket Financial Services Pvt. Ltd.**
