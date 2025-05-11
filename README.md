@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Omar Faruk!
+<h1><blink>👋 Hi there, I'm Omar Faruk!</blink></h1>
 
 ## 👨‍💻 About Me
 
