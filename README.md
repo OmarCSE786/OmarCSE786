@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Omar+Faruk+👨🏻‍💻;+DevOps+Engineer+%7C+Linux+Enthusiast+%7C+Security+Analyst" />
 </h1>
 
-<h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India 🇮🇳</h2>
+<h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India </h2>
 
-<div align="center">
+
 
 ## 👨‍💻 About Me
-</div>
+
 _I am a passionate **DevOps Engineer** with a foundation in software development and IT operations. I hold a **B.Tech in Computer Science Engineering from MAKAUT** and currently work as an *IT Executive – IT at mPokket Financial Services Pvt. Ltd.*
 
 With nearly **practical experience** in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
