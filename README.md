@@ -5,24 +5,29 @@
 <h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India 🇮🇳</h2>
 
 <div align="center">
+
 🌱 I am a passionate <strong>DevOps Engineer</strong> with a foundation in software development and IT operations.  
 🎓 I hold a <strong>B.Tech in Computer Science Engineering from MAKAUT</strong>  
 💼 Currently working as an <strong>IT Executive – IT at mPokket Financial Services Pvt. Ltd.</strong>
-</div>
-<h4>With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
-</h4>
-<ul>
+
+<br/>
+
+With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
+
 - 🛡️ System security and endpoint protection  
 - ⚙️ Automation with shell scripting and cron jobs  
 - 🌐 Network operations and PXE boot deployments  
 - 📦 Infrastructure monitoring with Zabbix and Observium  
 - 🔁 Version control and collaboration with Git and GitHub  
 
-  </ul>
-</br>
-<div align="center"> 🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
+🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
+
 </div>
+
 ---
+
+<h2 align="center">📬 Connect with Me</h2>
+
 <div align="center"> 
   <a href="mailto:farukomar29521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -39,24 +44,34 @@
 </div>
 
 ---
+
 <h2 align="center">🚀 Tools & Technologies I Use</h2>
 
 <div align="center">
-  <!-- 💻 DevOps & Cloud Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,terraform,azure,aws" /><br><br>
 
-  <!-- 🖥️ Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,shell,php,java" /><br><br>
+<!-- 🔤 Alphabetically Ordered Tools -->
+<img src="https://skillicons.dev/icons?i=aws,azure,css,docker,datadog,git,github,grafana,html,java,jenkins,javascript,jira,linux,mongodb,mysql,nodejs,php,postman,python,react,shell,terraform" /><br><br>
 
-  <!-- 🗃️ Databases & APIs -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" /><br><br>
+<!-- 🛠️ Additional Monitoring Tools with Badges -->
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
-  <!-- 🧰 Frontend & Web Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react" /><br><br>
-
-  <!-- 📡 Monitoring & Infra -->
-  <img src="https://skillicons.dev/icons?i=grafana,linux" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=OmarCSE786&show_icons=true&theme=midnight-purple" alt="Omar's GitHub Stats" height="200px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarCSE786&layout=compact&theme=midnight-purple" alt="Omar's Top Languages" height="200px" />
+      </td>
+    </tr>
+  </table>
+</p>
