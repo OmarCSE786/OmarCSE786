@@ -8,9 +8,8 @@
 🌱 I am a passionate <strong>DevOps Engineer</strong> with a foundation in software development and IT operations.  
 🎓 I hold a <strong>B.Tech in Computer Science Engineering from MAKAUT</strong>  
 💼 Currently working as an <strong>IT Executive – IT at mPokket Financial Services Pvt. Ltd.</strong>
-
-<br/>
-
+</div>
+<br>
 With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
 
 - 🛡️ System security and endpoint protection  
@@ -18,13 +17,10 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 - 🌐 Network operations and PXE boot deployments  
 - 📦 Infrastructure monitoring with Zabbix and Observium  
 - 🔁 Version control and collaboration with Git and GitHub  
-<be>
-🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
-
+</br>
+<div align="center"> 🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
 </div>
-
 ---
-
 <div align="center"> 
   <a href="mailto:farukomar29521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -43,7 +39,6 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 ---
 
 <h2 align="center">🚀 Tools & Technologies I Use</h2>
-
 <br/>
 
 <div align="center">
@@ -52,10 +47,9 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,terraform,azure,aws" />
 
 <!-- Programming & Scripting -->
-<img src="https://skillicons.dev/icons?i=python,shell,java,html,css,js,nodejs,react" />
-
+<img src="https://skillicons.dev/icons?i=python,shell,java,html,css,js,nodejs,react,C++" />
 <!-- Databases & APIs -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,SQL" />
 
 <!-- Monitoring & Others -->
 <img src="https://skillicons.dev/icons?i=grafana,linux" />
