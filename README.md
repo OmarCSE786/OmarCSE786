@@ -9,14 +9,16 @@
 🎓 I hold a <strong>B.Tech in Computer Science Engineering from MAKAUT</strong>  
 💼 Currently working as an <strong>IT Executive – IT at mPokket Financial Services Pvt. Ltd.</strong>
 </div>
-<br>
-With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
-
+<h4>With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
+</h4>
+<ul>
 - 🛡️ System security and endpoint protection  
 - ⚙️ Automation with shell scripting and cron jobs  
 - 🌐 Network operations and PXE boot deployments  
 - 📦 Infrastructure monitoring with Zabbix and Observium  
 - 🔁 Version control and collaboration with Git and GitHub  
+
+  </ul>
 </br>
 <div align="center"> 🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
 </div>
@@ -37,24 +39,24 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 </div>
 
 ---
-
 <h2 align="center">🚀 Tools & Technologies I Use</h2>
-<br/>
 
 <div align="center">
+  <!-- 💻 DevOps & Cloud Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,terraform,azure,aws" /><br><br>
 
-<!-- DevOps & Cloud -->
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,terraform,azure,aws" />
+  <!-- 🖥️ Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python,shell,php,java" /><br><br>
 
-<!-- Programming & Scripting -->
-<img src="https://skillicons.dev/icons?i=python,shell,java,html,css,js,nodejs,react,C++" />
-<!-- Databases & APIs -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,SQL" />
+  <!-- 🗃️ Databases & APIs -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" /><br><br>
 
-<!-- Monitoring & Others -->
-<img src="https://skillicons.dev/icons?i=grafana,linux" />
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <!-- 🧰 Frontend & Web Tools -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react" /><br><br>
 
+  <!-- 📡 Monitoring & Infra -->
+  <img src="https://skillicons.dev/icons?i=grafana,linux" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
