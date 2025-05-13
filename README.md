@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Omar+Faruk+👨🏻‍💻;+DevOps+Engineer+%7C+Linux+Enthusiast+%7C+Security+Analyst" />
 </h1>
 
-<h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India</h2>
+<h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India 🇮🇳</h2>
 
 <div align="center">
 
@@ -12,14 +12,13 @@
 
 <br/>
 
-<h3 align="center">
-With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:</h3>
+With nearly <strong>three years of practical experience</strong> in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
+
 - 🛡️ System security and endpoint protection  
 - ⚙️ Automation with shell scripting and cron jobs  
 - 🌐 Network operations and PXE boot deployments  
 - 📦 Infrastructure monitoring with Zabbix and Observium  
 - 🔁 Version control and collaboration with Git and GitHub  
-<br>
 
 🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
 
@@ -50,10 +49,10 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 
 <div align="center">
 
-<!-- 🔤 Alphabetically Ordered Tools -->
-<img src="https://skillicons.dev/icons?i=aws,azure,css,docker,datadog,git,github,grafana,html,java,jenkins,javascript,jira,linux,mongodb,mysql,nodejs,php,postman,python,react,shell,terraform" />
+<!-- 🔤 Alphabetically Ordered Tech Stack -->
+<img src="https://skillicons.dev/icons?i=aws,azure,css,datadog,docker,git,github,grafana,html,java,jenkins,javascript,jira,linux,mongodb,mysql,nodejs,php,postman,python,react,shell,terraform" /><br><br>
 
-<!-- 🛠️ Additional Monitoring Tools with Badges -->
+<!-- Additional monitoring tools with badge styles -->
 <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
