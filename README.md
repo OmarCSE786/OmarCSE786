@@ -5,7 +5,6 @@
 <h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India 🇮🇳</h2>
 
 <div align="center">
-
 🌱 I am a passionate <strong>DevOps Engineer</strong> with a foundation in software development and IT operations.  
 🎓 I hold a <strong>B.Tech in Computer Science Engineering from MAKAUT</strong>  
 💼 Currently working as an <strong>IT Executive – IT at mPokket Financial Services Pvt. Ltd.</strong>
@@ -19,7 +18,7 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 - 🌐 Network operations and PXE boot deployments  
 - 📦 Infrastructure monitoring with Zabbix and Observium  
 - 🔁 Version control and collaboration with Git and GitHub  
-
+<be>
 🚀 Driven by curiosity and a commitment to continuous improvement, I aim to transition into a full-time <strong>DevOps/Security Engineering</strong> role where I can architect resilient CI/CD pipelines, cloud-native solutions, and infrastructure as code.
 
 </div>
