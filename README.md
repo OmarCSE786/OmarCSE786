@@ -44,24 +44,23 @@ With nearly <strong>three years of practical experience</strong> in Linux admini
 
 <h2 align="center">🚀 Tools & Technologies I Use</h2>
 
+<br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,git,github,postman,jira,mysql,mongodb,python,shell,html,css,js" />
-    <img src="https://skillicons.dev/icons?i=azure,aws,sql,react,java,nodejs,terraform,grafana,zabbix,datadog" /><br>
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,terraform,azure,aws" />
+
+<!-- Programming & Scripting -->
+<img src="https://skillicons.dev/icons?i=python,shell,java,html,css,js,nodejs,react" />
+
+<!-- Databases & APIs -->
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
+
+<!-- Monitoring & Others -->
+<img src="https://skillicons.dev/icons?i=grafana,linux" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
 </div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=OmarCSE786&show_icons=true&theme=midnight-purple" alt="Omar's GitHub Stats" height="200px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarCSE786&layout=compact&theme=midnight-purple" alt="Omar's Top Languages" height="200px" />
-      </td>
-    </tr>
-  </table>
-</p>
