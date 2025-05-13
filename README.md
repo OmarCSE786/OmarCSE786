@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Faruk+👨🏻‍💻;+DevOps+Engineer/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Omar+Faruk+👨🏻‍💻;DevOps+Engineer" 
+    alt="Typing SVG"
+  />
 </h1>
 
 <h2 align="center">💻 Passionate DevOps Engineer & IT Professional from India </h2>
