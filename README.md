@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-_I am a passionate **DevOps Engineer** with a foundation in software development and IT operations. I hold a **B.Tech in Computer Science Engineering from MAKAUT** and currently work as an *IT Executive – IT at mPokket Financial Services Pvt. Ltd.*
+_I am a passionate **DevOps Engineer** with a foundation in software development and IT operations. I hold a **B.Tech in Computer Science Engineering from MAKAUT** and currently work as a *Senior IT Administrator at BAAR Technologies*
 
 With nearly **practical experience** in Linux administration, network configuration, and technical support, I specialize in building secure, automated, and scalable infrastructure. My expertise lies in:
 
